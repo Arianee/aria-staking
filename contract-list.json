@@ -1,20 +1,21 @@
 [
-    //v7
-    {
-        tokens: [ {
-            decimals: 18,
-            symbol: 'aria20',
-            name: 'Aria',
-            chainId: 1,
-            address: '0xedf6568618a00c6f0908bf7758a16f76b6e04af9',
-        }],
-        baseToken: {
-            decimals: 18,
-            symbol: 'aria20',
-            name: 'Aria',
-            chainId: 1,
-            address: '0xedf6568618a00c6f0908bf7758a16f76b6e04af9',
-        },
-        stakingRewardAddress: '0x8C66D38032b3FF698b379d2C13Cb9A484331A732'
-    }
+   {
+      "tokens":[
+         {
+            "decimals":18,
+            "symbol":"aria20",
+            "name":"Aria",
+            "chainId":1,
+            "address":"0xedf6568618a00c6f0908bf7758a16f76b6e04af9"
+         }
+      ],
+      "baseToken":{
+         "decimals":18,
+         "symbol":"aria20",
+         "name":"Aria",
+         "chainId":1,
+         "address":"0xedf6568618a00c6f0908bf7758a16f76b6e04af9"
+      },
+      "stakingRewardAddress":"0x8C66D38032b3FF698b379d2C13Cb9A484331A732"
+   }
 ]
