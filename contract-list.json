@@ -7,7 +7,7 @@
    ],
    "77":[
           {
-         "stakingRewardAddress":"0x1Fa3Ad2968594d6E1E0fea0AA794790c60D852B6",
+         "stakingRewardAddress":"0xD6DCE5a56782fEaE5F78aC97b6757bc4Ce81d611",
          "baseToken":{
             "chainId":77,
             "decimals":18,
