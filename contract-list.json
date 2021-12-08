@@ -7,7 +7,7 @@
    ],
    "77":[
           {
-         "stakingRewardAddress":"0xD6DCE5a56782fEaE5F78aC97b6757bc4Ce81d611",
+         "stakingRewardAddress":"0x8A95411613D6472B90B283fF7E01413F1B49Fb64",
          "baseToken":{
             "chainId":77,
             "decimals":18,
@@ -18,71 +18,6 @@
             "address":"0x7f8f8bb320629bbD9e815b8C2e0D1CF00d2a427A"
          },
          "vaultName":"ARIA PAUSED 1 year vault (6)"
-      },
-         {
-         "stakingRewardAddress":"0x2200693906e448c995DDB96c4116582d50E35cd2",
-         "baseToken":{
-            "chainId":77,
-            "decimals":18,
-            "symbol":"ARIA20",
-            "name":"ARIA20",
-            "isNative":false,
-            "isToken":true,
-            "address":"0x7f8f8bb320629bbD9e815b8C2e0D1CF00d2a427A"
-         },
-         "vaultName":"ARIA 1 year vault (7)"
-      },
-       {
-         "stakingRewardAddress":"0xA093CDa80b704D3641dcFfaE542dC5773bdB4812",
-         "baseToken":{
-            "chainId":77,
-            "decimals":18,
-            "symbol":"ARIA20",
-            "name":"ARIA20",
-            "isNative":false,
-            "isToken":true,
-            "address":"0x7f8f8bb320629bbD9e815b8C2e0D1CF00d2a427A"
-         },
-         "vaultName":"ARIA 2 day vault (4)"
-      },
-      {
-         "stakingRewardAddress":"0x3776dbBc7DF7B3f10fd7c1a85DD93E5f827165A1",
-         "baseToken":{
-            "chainId":77,
-            "decimals":18,
-            "symbol":"ARIA20",
-            "name":"ARIA20",
-            "isNative":false,
-            "isToken":true,
-            "address":"0x7f8f8bb320629bbD9e815b8C2e0D1CF00d2a427A"
-         },
-         "vaultName":"ARIA 1 day vault (3)"
-      },
-      {
-         "stakingRewardAddress":"0x128fdDC0c9805e173337732EC4ED998AfBFb100C",
-         "baseToken":{
-            "chainId":77,
-            "decimals":18,
-            "symbol":"ARIA20",
-            "name":"ARIA20",
-            "isNative":false,
-            "isToken":true,
-            "address":"0x7f8f8bb320629bbD9e815b8C2e0D1CF00d2a427A"
-         },
-         "vaultName":"ARIA 6-month vault (1)"
-      },
-      {
-         "stakingRewardAddress":"0x7E2Ca094F8cD16a41279c9b28ED6F7904106fbF8",
-         "baseToken":{
-            "chainId":77,
-            "decimals":18,
-            "symbol":"ARIA20",
-            "name":"ARIA20",
-            "isNative":false,
-            "isToken":true,
-            "address":"0x7f8f8bb320629bbD9e815b8C2e0D1CF00d2a427A"
-         },
-         "vaultName":"ARIA 3-month vault (2)"
       }
    ]
 }
