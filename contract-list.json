@@ -6,6 +6,19 @@
       
    ],
    "77":[
+        {
+         "stakingRewardAddress":"0x9a023dDC0b591cfc4Ac338da1800D7D15c5a5050",
+         "baseToken":{
+            "chainId":77,
+            "decimals":18,
+            "symbol":"ARIA20",
+            "name":"ARIA20",
+            "isNative":false,
+            "isToken":true,
+            "address":"0x7f8f8bb320629bbD9e815b8C2e0D1CF00d2a427A"
+         },
+         "vaultName":"A DAY Contract (1)"
+      }
           {
          "stakingRewardAddress":"0x8A95411613D6472B90B283fF7E01413F1B49Fb64",
          "baseToken":{
