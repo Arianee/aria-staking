@@ -3,7 +3,19 @@
       
    ],
    "137":[
-      
+       {
+         "stakingRewardAddress":"0xCA3Da520f815B8A02d3C2cbA72eC03E3fA0F9aD5",
+         "baseToken":{
+            "chainId":77,
+            "decimals":18,
+            "symbol":"ARIA20",
+            "name":"ARIA20",
+            "isNative":false,
+            "isToken":true,
+            "address":"0x46f48fbdedaa6f5500993bede9539ef85f4bee8e"
+         },
+         "vaultName":"Vault Aria20 7 days"
+      },
    ],
    "77":[
       {
