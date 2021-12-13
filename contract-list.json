@@ -3,7 +3,7 @@
       {
          "stakingRewardAddress":"0xcda99d1f1b8d3a71a4d4d5a197723689611e5d36",
          "baseToken":{
-            "chainId":77,
+            "chainId":1,
             "decimals":18,
             "symbol":"ARIA20",
             "name":"ARIA20",
@@ -16,7 +16,7 @@
       {
          "stakingRewardAddress":"0xec4e66904768e1fea37cbe309e2a79f85c82ca11",
          "baseToken":{
-            "chainId":77,
+            "chainId":1,
             "decimals":18,
             "symbol":"ARIA20",
             "name":"ARIA20",
@@ -32,7 +32,7 @@
       {
          "stakingRewardAddress":"0x4f385eEbD9448fdcc4b74a6226e73519ba31639c",
          "baseToken":{
-            "chainId":77,
+            "chainId":137,
             "decimals":18,
             "symbol":"ARIA20",
             "name":"ARIA20",
@@ -45,7 +45,7 @@
        {
          "stakingRewardAddress":"0x15791128d344ab90495E69974D622Ec97dDdabAe",
          "baseToken":{
-            "chainId":77,
+            "chainId":137,
             "decimals":18,
             "symbol":"ARIA20",
             "name":"ARIA20",
