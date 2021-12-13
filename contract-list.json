@@ -12,6 +12,19 @@
             "address":"0xedf6568618a00c6f0908bf7758a16f76b6e04af9"
          },
          "vaultName":"Vault Aria20 180 days"
+      },
+      {
+         "stakingRewardAddress":"0xec4e66904768e1fea37cbe309e2a79f85c82ca11",
+         "baseToken":{
+            "chainId":77,
+            "decimals":18,
+            "symbol":"ARIA20",
+            "name":"ARIA20",
+            "isNative":false,
+            "isToken":true,
+            "address":"0xedf6568618a00c6f0908bf7758a16f76b6e04af9"
+         },
+         "vaultName":"Vault Aria20 180 days"
       }
        
    ],
