@@ -4,7 +4,7 @@
    ],
    "137":[
       {
-         "stakingRewardAddress":"0xCA3Da520f815B8A02d3C2cbA72eC03E3fA0F9aD5",
+         "stakingRewardAddress":"0x4f385eEbD9448fdcc4b74a6226e73519ba31639c",
          "baseToken":{
             "chainId":77,
             "decimals":18,
@@ -14,7 +14,20 @@
             "isToken":true,
             "address":"0x46f48fbdedaa6f5500993bede9539ef85f4bee8e"
          },
-         "vaultName":"Vault Aria20 7 days"
+         "vaultName":"Vault Aria20 90 days"
+      },
+       {
+         "stakingRewardAddress":"0x15791128d344ab90495E69974D622Ec97dDdabAe",
+         "baseToken":{
+            "chainId":77,
+            "decimals":18,
+            "symbol":"ARIA20",
+            "name":"ARIA20",
+            "isNative":false,
+            "isToken":true,
+            "address":"0x46f48fbdedaa6f5500993bede9539ef85f4bee8e"
+         },
+         "vaultName":"Vault Aria20 180 days"
       }
    ],
    "77":[
